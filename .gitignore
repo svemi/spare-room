@@ -1,0 +1,7 @@
+*.map
+.env
+bundle.js
+config.js
+package-lock.json
+node_modules/
+data/
